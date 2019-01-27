@@ -20,7 +20,8 @@ You will also see any lint errors in the console.
 
 ### `Mongoose`
 
-Update mongo Database name as realestate and collection as projects
+Update mongo Database name as realestate and collection as projects.
+
 EX: {[{projtitle:"",projowner:"",projcost:0,projarea:""}]}
 
 ### `npm test`
